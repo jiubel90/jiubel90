@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jiubel Aldana Valdés 
-- 🔶 Estudiante Ingeniería Informática 
-- ▶️ 3do Año CPE, Universidad de Holguin, Oscar Lucero Moya
+- 🔶 Ingeniero en Informática 
+- ▶️ Graduado de la Universidad de Holguin, Oscar Lucero Moya
 
 <!---
 jiubel90/jiubel90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
